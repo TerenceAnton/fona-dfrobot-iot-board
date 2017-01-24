@@ -1,5 +1,5 @@
 # fona-dfrobot-iot-board
-This is a sample code for dfrobot's SIM808 GSM/GPRS/GPS Arduino IOT Board using the Adafruit Fona library.
+This is a sample code for DFRobot's SIM808 GSM/GPRS/GPS Arduino IOT Board using the Adafruit Fona library.
 The logic for the SIM808 module is in fona.ino. All of the functions can be used to the your main arduino file (in this case, main.ino)
 
 #Prerequisites
